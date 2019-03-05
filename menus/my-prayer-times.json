@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle my-prayer-times",
+        "command": "my-prayer-times:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "my-prayer-times",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "my-prayer-times:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
