@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/s2swdev/atom-my-prayer-times.svg?branch=master)](https://travis-ci.com/s2swdev/atom-my-prayer-times)
+
 # my-prayer-times package
 
 A short description of your package.
