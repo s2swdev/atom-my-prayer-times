@@ -1,5 +1,5 @@
 ### Project specific config ###
-language: generic
+language: objective-c
 
 notifications:
   email:
